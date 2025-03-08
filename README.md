@@ -1,5 +1,3 @@
---Ayush Adk--
-
 # AI Resume Editor & Job Tracker
 
 This project is an AI-powered Resume Editor and Job Tracker. It helps users to create and edit their resumes using AI and also track their job applications.
@@ -41,14 +39,13 @@ This project is an AI-powered Resume Editor and Job Tracker. It helps users to c
     ```
 2. Open your browser and navigate to `http://localhost:3000`.
 
-## Contributing
+## Design and Animations
 
-Contributions are welcome! Please open an issue or submit a pull request.
+### Design
 
-## License
+This project uses [Tailwind CSS](https://tailwindcss.com/) to achieve a modern and responsive design.
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to me at [your_email@example.com].
+**Installation:**
+```bash
+npm install -D tailwindcss
+npx tailwindcss init
