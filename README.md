@@ -11,6 +11,8 @@ This project is an AI-powered Resume Editor and Job Tracker. It helps users to c
 ## Technologies Used
 
 - TypeScript
+- Vite
+- Sql
 - Node.js
 - Express
 - MongoDB
