@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { CoverLetterAnalysis, generateCoverLetter, supabase } from '../app/utilis/ai'; // Corrected path: from components/ to app/
+ import { CoverLetterAnalysis, generateCoverLetter, supabase } from '../app/utilis/ai'; // Corrected path: from components/ to app/
 
 const AICoverLetterGenerator: React.FC = () => {
   const [analysis, setAnalysis] = useState<CoverLetterAnalysis | null>(null);
